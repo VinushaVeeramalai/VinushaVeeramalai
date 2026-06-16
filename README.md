@@ -1,86 +1,128 @@
-<h1 align="center">Hi there, I'm Vinusha Veeramalai 👋</h1>
+# 💫 About Me
 
-<p align="center">
-  <em>Final Year Computer & Communication Engineering Student &nbsp;|&nbsp; Aspiring Full Stack Developer &nbsp;|&nbsp; Software Developer</em>
-</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/vinushaveeramalai">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VinushaVeeramalai">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
+Hi! I'm a final-year Computer & Communication Engineering student with hands-on experience building real-world software solutions. I'm passionate about solving meaningful problems through technology and driven by a strong desire to learn, collaborate, and deliver. Currently seeking opportunities to contribute to innovative, impact-driven projects as a Software Developer. 🚀
 
 ---
 
-### 👩‍💻 About Me
+## 🌐 Socials
 
-- 🎓 Final year **Computer & Communication Engineering** student
-- 💡 Passionate about building end-to-end web applications as a **Full Stack Developer**
-- 🛠️ I enjoy creating clean, efficient, and scalable software solutions
-- 🌱 Currently leveling up my skills in **React**, **Node.js**, and **System Design**
-- 🤝 Open to collaborating on real-world projects and open source
-- ⚡ Fun fact: I love turning ideas into working products!
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinushaveeramalai)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vinusha1711.v@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/VinushaVeeramalai)
 
 ---
 
-### 🛠️ Languages & Tools
+## 💻 Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nodejs,express,python,java,mysql,mongodb,git,github,vscode,postman,figma" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=VinushaVeeramalai&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VinushaVeeramalai&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=VinushaVeeramalai&theme=tokyonight&hide_border=true" />
-</p>
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/springboot-%236DB33F.svg?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ---
 
-### 🚀 Projects
+## 🚀 Projects
 
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| 🔧 **Project 1** | Brief description of what it does | React, Node.js, MongoDB |
-| 🌐 **Project 2** | Brief description of what it does | HTML, CSS, JavaScript |
-| 📱 **Project 3** | Brief description of what it does | Python, Flask, MySQL |
+### 🏦 [QR-Based Transaction Management System](https://github.com/VinushaVeeramalai/QR-based-Transaction-Management-System)
+> Cardless cash withdrawal system using QR/UPI and PIN-based authentication with an 8-step ATM transaction workflow simulating real-world banking operations. Features a fully responsive interface replicating ATM functionality for seamless user experience.
 
-> 📌 *Replace the above with your real projects! Add links too.*
+`HTML` `CSS` `JavaScript` `Django` `SQLite` `QR Code Integration`
 
 ---
 
-### 📫 Connect with Me
+### 🌐 [Multi-Language Code Translator — IDE Extension](https://github.com/VinushaVeeramalai/Multi-Language-Code-Translator-IDE-Extension)
+> VS Code extension that translates code across multiple programming languages. Designed with an intuitive developer-friendly interface to improve workflow efficiency and reduce manual rewriting effort across language environments.
 
-<p align="left">
-  <a href="https://linkedin.com/in/vinushaveeramalai">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white" />
-  </a>
-  &nbsp;
-  <a href="mailto:your.email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" />
-  </a>
-</p>
+`JavaScript` `HTML` `CSS` `VS Code Extension API`
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=VinushaVeeramalai&color=blueviolet&style=flat-square&label=Profile+Views" />
-</p>
+### 🎓 [Smart Academic Overload & Wellbeing Predictor](https://github.com/VinushaVeeramalai/Smart-Academic-Overload-Wellbeing-Predictor)
+> Predicts student burnout risk using machine learning based on personalized user inputs. Generates customized 7-day study plans to help students manage workload effectively and forecasts stress levels by analyzing stored data trends using linear regression.
 
-<p align="center">⭐ <em>Thanks for visiting my profile! Feel free to explore my repositories and reach out.</em> ⭐</p>
+`Python` `Pandas` `Scikit-learn` `Linear Regression` `HTML` `CSS`
+
+---
+
+### 🤖 [CapOps Agent](https://github.com/VinushaVeeramalai/CapOps-Agent)
+> Intelligent BPO Assistant for Capgemini's internal operations — autonomously resolves HR, Finance & IT queries using LangChain + Claude AI with RAG, live sentiment analysis, load balancing & a real-time React dashboard. Supports Web, Voice & Email channels with smart escalation to human agents.
+
+`Python` `FastAPI` `LangChain` `Claude API` `ChromaDB` `React` `NGINX`
+
+---
+
+### 🗺️ [FemRoute](https://github.com/VinushaVeeramalai/FemRoute)
+> AI-powered women's safety navigation app — scores route safety, shows color-coded risk segments on an interactive map, one-tap SOS, nearby police/hospitals/NGOs, ride booking integration (Ola, Uber, Rapido) & Sakhi AI chatbot for 24/7 safety assistance.
+
+`JavaScript` `FastAPI` `OpenRouteService API` `Leaflet.js` `HTML` `CSS`
+
+---
+
+### 🔐 [BlockCred](https://github.com/VinushaVeeramalai/BlockCred)
+> Blockchain-based worker credential verification platform built for OFFGRID 1.0 Hackathon. Features 4-step OTP auth, face capture, QR passport for banks/employers, CIBIL score gauge, eligible loan schemes & AI financial tips. Includes light/dark theme toggle.
+
+`HTML` `CSS` `Vanilla JavaScript`
+
+---
+
+### 🏙️ [CivicFix](https://github.com/VinushaVeeramalai/CivicFix)
+> Crowdsourced civic issue reporting platform with AI keyword-based severity scoring, community upvoting, auto-escalation at 10+ votes, interactive heatmap, and a gamified points & leaderboard system for citizen engagement. Includes a full admin dashboard for municipal staff.
+
+`Java` `Spring Boot` `MongoDB` `Leaflet.js` `Thymeleaf` `HTML` `CSS`
+
+---
+
+## 🏆 Publications & Achievements
+
+### 📄 IEEE Publications
+- 📘 **Noise Reduction in Underwater Acoustic Signals Using Hybrid Wavelet Transform and GNN**
+  *APCIT-2025 (IEEE) — Vidyavardhaka College of Engineering, Mysuru | IEEE Xplore | Mar 2026*
+- 📗 **Multi-Agent Deep Reinforcement Learning-Based Adaptive Routing Strategy**
+  *APCIT-2025 (IEEE) — Vidyavardhaka College of Engineering, Mysuru | IEEE Xplore | Mar 2026*
+
+### 🏅 Certifications
+- 🥇 **NPTEL — Programming in Java** (Elite + Gold, 88%)
+- 📚 **Infosys Springboard** — Python, Full Stack, Java, Data Science, IoT Foundation
+- 🔒 **Forage** — Technology & Cyber Security
+
+---
+
+## 💼 Experience
+
+**Full Stack Web Development Intern** — *Mind View Technologies, Trichy* `Jun 2025 – Jul 2025`
+> Developed a responsive portfolio website; gained practical experience across front-end & back-end development through the full software development lifecycle.
+
+**Web Development Intern** — *Eduphoenix Private Limited, Bangalore* `Jun 2024 – Jul 2024`
+> Built static websites with HTML & CSS; strengthened skills in semantic HTML, web structure, and responsive design.
+
+---
+
+## 📊 GitHub Stats
+
+![](https://github-readme-stats.shion.dev/api?username=VinushaVeeramalai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)
+
+![](https://streak-stats.demolab.com/?user=VinushaVeeramalai&theme=tokyonight&hide_border=false)
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=VinushaVeeramalai&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+### 🔝 Top Contributed Repos
+![](https://github-contributor-stats.vercel.app/api?username=VinushaVeeramalai&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
+
+---
+
+[![](https://visitcount.itsvg.in/api?id=VinushaVeeramalai&icon=9&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly built with ❤️ by Vinusha Veeramalai -->
