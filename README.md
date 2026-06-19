@@ -21,7 +21,7 @@ I'm a final-year **Computer & Communication Engineering** student with hands-on 
 ### 💻 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,nodejs,fastapi,django,spring,mysql,mongodb,sqlite,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css,react,mysql,sqlite,git,vscode" />
 </p>
 
 ---
